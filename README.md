@@ -1,4 +1,4 @@
-# Yoga-Keywords-Ranking-on-Google-
+# Data Science for SEO: Yoga-Keywords-Ranking-on-Google-
 
 
 Ever since the lockdown was called, 'Yoga' remains one of the most searched and practiced activities all around the globe. 
